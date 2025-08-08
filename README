@@ -1,0 +1,22 @@
+# Responsive Landing Page
+
+This is a fully responsive landing page with an interactive navigation menu.
+
+## Features
+- Fixed navigation bar
+- Scroll-based color change
+- Responsive design for mobile & desktop
+- Clean UI with hero, about, services, and contact sections
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Customize text, colors, and images as needed
+
+## Author
+Developed by [Your Name]
